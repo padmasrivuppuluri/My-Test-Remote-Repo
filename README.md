@@ -1,3 +1,3 @@
 # My-Test-Remote-Repo
 
-Hi everyone, "Welcometo Github"
+Hi everyone, "Welcome to Github Page"
